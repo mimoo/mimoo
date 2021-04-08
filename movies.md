@@ -7,7 +7,7 @@ This is my attempt at doing that:
 | 12 Monkeys | ★★★★★ | |
 | Eternal Sunshine Of The Spotless Mind | ★★★★★ ||
 | A Beautiful Mind | ★★★★★ ||
-| Oldboy | ★★★★★★ ||
+| Oldboy | ★★★★★ ||
 | Paprika |★★★★★||
 | The 13th Floor |★★★★★||
 | Cube |★★★★★||
@@ -28,22 +28,24 @@ This is my attempt at doing that:
 | The Prestige | ★★★★ ||
 | Donnie Darko | ★★★★ ||
 | Frailty | ★★★ ||
+| Cube 2 Hypercube | ★★★ ||
 | American Psycho | ★★★ | |
+| The Machinist |★★|||
 | Cypher | ★★ ||
 | Jacobs Ladder | ★★ ||
 | One Hour Photo | ★★ ||
 | Pi | ★★ ||
+| Blade Runner |★||
 | A Clockwork Orange  | ★ ||
 | 2001 A Space Odyssey | ★ | |
 | Lost Highway | ★ ||
 | Mulholland Drive | ||
 | Naked Lunch |||
-| Primer |||
+| Primer | ★★★★ ||
 | Scanners |||
 | Session 9 |||
 | The Game ||||
 | The Illusionist ||||
-| The Machinist ||||
 | The Others |||
 | Videodrome |||
 | Adaptation |||
@@ -101,7 +103,6 @@ This is my attempt at doing that:
 | THX 1138 1971 Directors Cut |||
 | Timecrimes |||
 | After Hours |||
-| Blade Runner |★||
 | Clean Shaven |||
 | Crash |||
 | Dead Man |||
@@ -131,7 +132,6 @@ This is my attempt at doing that:
 | Begotten |||
 | Chasing Sleep |||
 | Code 46 |||
-| Cube 2 Hypercube | ★★★ ||
 | Cup Of My Blood |||
 | Deepwater |||
 | Eyes Wide Shut |||
@@ -166,6 +166,7 @@ I also added some more movies in there that I think deserve to be part of the li
 | El Hoyo (The Platform) | ★★★★★ ||
 | Transcendence |★★★★★||
 | Annhilation |★★★★★||
+| The Cabin in the Woods |★★★★★||
 
 Other cool list of movies to watch:
 

@@ -10,6 +10,7 @@ This is my attempt at doing that:
 | Oldboy | ★★★★★ ||
 | Paprika |★★★★★||
 | The 13th Floor |★★★★★||
+| Frailty | ★★★★★ ||
 | Cube |★★★★★||
 | Requiem For A Dream | ★★★★★ ||
 | The Butterfly Effect |★★★★★||
@@ -28,9 +29,12 @@ This is my attempt at doing that:
 | Being John Malkovich | ★★★★ | |
 | The Prestige | ★★★★ ||
 | Donnie Darko | ★★★★ ||
-| Frailty | ★★★ ||
+| The Usual Suspects |★★★|| 
+| Renaissance |★★★||
 | Cube 2 Hypercube | ★★★ ||
 | American Psycho | ★★★ | |
+| Revolver |★★★||
+| Stay |★★||
 | The Machinist |★★|||
 | Cypher | ★★ ||
 | Jacobs Ladder | ★★ ||
@@ -59,7 +63,6 @@ This is my attempt at doing that:
 | One Point O |||
 | Pink Floyd The Wall |||
 | Rashomon |||
-| Revolver |||
 | Spellbound |||
 | Spider |||
 | Spun |||
@@ -68,7 +71,6 @@ This is my attempt at doing that:
 | The Jacket |||
 | The Number 23 |||
 | The Salton Sea |||
-| The Usual Suspects ||| 
 | Waking Life |||
 | What Dreams May Come |||
 | 1408 DC |||
@@ -115,7 +117,6 @@ This is my attempt at doing that:
 | No Way Out |||
 | Open Your Eyes |||
 | Persona |||
-| Renaissance |||
 | Schizopolis |||
 | Stalker |||
 | The Big Empty |||
@@ -144,7 +145,6 @@ This is my attempt at doing that:
 | Palindromes |||
 | Repulsion |||
 | Slacker |||
-| Stay |||
 | The Cook The Thief His Wife And Her Lover |||
 | The Final Cut |||
 | The Holy Mountain |||

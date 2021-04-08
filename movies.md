@@ -5,23 +5,39 @@ This is my attempt at doing that:
 | Movie | Ranking | Notes |
 | ----- | ------- | ----- |
 | 12 Monkeys | ★★★★★ | |
-| 2001 A Space Odyssey | ★ | |
-| American Psycho | ★★★ | |
-| Being John Malkovich | *★★★ | |
-| Cypher | ★★ ||
-| Donnie Darko | ★★★★ ||
 | Eternal Sunshine Of The Spotless Mind | ★★★★★ ||
-| eXistenZ | ★★★★★ ||
-| Fight Club | ★★★★★ ||
-| Frailty | ★★★ ||
-| Jacobs Ladder | ★★ ||
-| Lost Highway | ★ ||
-| Memento | ★★★★★ ||
-| Mulholland Drive | ||
-| Naked Lunch |||
+| A Beautiful Mind | ★★★★★ ||
 | Oldboy | ★★★★★★ ||
+| Paprika |★★★★★||
+| The 13th Floor |★★★★★||
+| Cube |★★★★★||
+| Requiem For A Dream | ★★★★★ ||
+| The Butterfly Effect |★★★★★||
+| Fear And Loathing In Las Vegas | ★★★★★ ||
+| Total Recall | ★★★★★ ||
+| Vanilla Sky | ★★★★★ ||
+| Memento | ★★★★★ ||
+| Fight Club | ★★★★★ ||
+| eXistenZ | ★★★★★ ||
+| Unbreakable |★★★★★||
+| Perfume The Story of a Murderer | ★★★★||
+| A Scanner Darkly | ★★★★ ||
+| The Sixth Sense | ★★★★ ||
+| Lucky Number Slevin | ★★★★ ||
+| Being John Malkovich | ★★★★ | |
+| The Prestige | ★★★★ ||
+| Donnie Darko | ★★★★ ||
+| Frailty | ★★★ ||
+| American Psycho | ★★★ | |
+| Cypher | ★★ ||
+| Jacobs Ladder | ★★ ||
 | One Hour Photo | ★★ ||
 | Pi | ★★ ||
+| A Clockwork Orange  | ★ ||
+| 2001 A Space Odyssey | ★ | |
+| Lost Highway | ★ ||
+| Mulholland Drive | ||
+| Naked Lunch |||
 | Primer |||
 | Scanners |||
 | Session 9 |||
@@ -29,13 +45,7 @@ This is my attempt at doing that:
 | The Illusionist ||||
 | The Machinist ||||
 | The Others |||
-| The Prestige | ★★★★ ||
-| The Sixth Sense | ★★★★ ||
-| Total Recall | ★★★★★ ||
-| Vanilla Sky | ★★★★★ ||
 | Videodrome |||
-| A Beautiful Mind | ★★★★★ ||
-| A Clockwork Orange  | ★ ||
 | Adaptation |||
 | Barton Fink |||
 | Brazil |||
@@ -44,18 +54,14 @@ This is my attempt at doing that:
 | Eraserhead |||
 | Identity |||
 | In The Mouth Of Madness |||
-| Lucky Number Slevin | ★★★★ ||
 | One Point O |||
 | Pink Floyd The Wall |||
 | Rashomon |||
-| Requiem For A Dream | ★★★★★ ||
 | Revolver |||
 | Spellbound |||
 | Spider |||
 | Spun |||
 | Synecdoche New York |||
-| The 13th Floor |★★★★★||
-| The Butterfly Effect |★★★★★||
 | The Fountain |||
 | The Jacket |||
 | The Number 23 |||
@@ -70,7 +76,6 @@ This is my attempt at doing that:
 | Day Watch |||
 | Event Horizon |||
 | Fallen |||
-| Fear And Loathing In Las Vegas | ★★★★★ ||
 | Gattaca |||
 | Hard Candy |||
 | K-Pax |||
@@ -95,13 +100,10 @@ This is my attempt at doing that:
 | They Live |||
 | THX 1138 1971 Directors Cut |||
 | Timecrimes |||
-| Unbreakable |★★★★★||
-|  A Scanner Darkly | ★★★★ ||
 | After Hours |||
 | Blade Runner |★||
 | Clean Shaven |||
 | Crash |||
-| Cube |★★★★★||
 | Dead Man |||
 | El Topo |||
 | Fargo |||
@@ -111,7 +113,6 @@ This is my attempt at doing that:
 | Memories Of Murder |||
 | No Way Out |||
 | Open Your Eyes |||
-| Paprika |★★★★★||
 | Persona |||
 | Renaissance |||
 | Schizopolis |||
@@ -141,7 +142,6 @@ This is my attempt at doing that:
 | MirrorMask |||
 | November |||
 | Palindromes |||
-| Perfume The Story of a Murderer | ★★★★||
 | Repulsion |||
 | Slacker |||
 | Stay |||

@@ -20,6 +20,7 @@ This is my attempt at doing that:
 | Fight Club | ★★★★★ ||
 | eXistenZ | ★★★★★ ||
 | Unbreakable |★★★★★||
+| Primer | ★★★★ ||
 | Perfume The Story of a Murderer | ★★★★||
 | A Scanner Darkly | ★★★★ ||
 | The Sixth Sense | ★★★★ ||
@@ -41,7 +42,6 @@ This is my attempt at doing that:
 | Lost Highway | ★ ||
 | Mulholland Drive | ||
 | Naked Lunch |||
-| Primer | ★★★★ ||
 | Scanners |||
 | Session 9 |||
 | The Game ||||
@@ -164,7 +164,7 @@ I also added some more movies in there that I think deserve to be part of the li
 | Contact | ★★★★★ ||
 | Love Object | ★★★★★ ||
 | El Hoyo (The Platform) | ★★★★★ ||
-| Transcendence |★★★★★||
+| Predestination |★★★★★||
 | Annhilation |★★★★★||
 | The Cabin in the Woods |★★★★★||
 

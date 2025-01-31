@@ -1,9 +1,3 @@
 **😳 Hello you!**
 
-I'm David Wong. I'm a founder of [zkSecurity](https://www.zksecurity.xyz). I was previously a cryptography engineer working on the [Mina cryptocurrency](https://minaprotocol.com/) at [O(1) Labs](https://o1labs.org/). I'm also the author of the book [Real-World Cryptography](https://www.manning.com/books/real-world-cryptography?a_aid=Realworldcrypto&a_bid=ad500e09).
-I used to be the security lead on the [Diem blockchain](https://www.diem.com) (formely known as Libra), working from Novi (Facebook). 
-Before that I was a security consultant at [Cryptography Services (NCC Group)](https://www.nccgroup.com/us/). 
-
-You can find more about what I do on my crypto blog [cryptologie.net](https://www.cryptologie.net) or my portfolio [davidwong.fr](https://davidwong.fr).
-
-You should also check my [podcast](https://podcasts.apple.com/us/podcast/two-and-a-half-coins/id1642630194).
+I'm David Wong. I work at [zkSecurity](https://www.zksecurity.xyz) on zero-knowledge proofs and on general security of advanced cryptographic primitives, I'm also the author of the book [Real-World Cryptography](https://www.manning.com/books/real-world-cryptography?a_aid=Realworldcrypto&a_bid=ad500e09) and the host of the podcast [Two And A Half Coins](https://podcasts.apple.com/us/podcast/two-and-a-half-coins/id1642630194). I was previously a cryptography architect working on the [Mina cryptocurrency](https://minaprotocol.com/) at [O(1) Labs](https://o1labs.org/), and the security lead on the [Diem blockchain](https://www.diem.com) (formely known as Libra), working from Novi (Facebook). Before that I was a security consultant at the [Cryptography Services (of NCC Group)](https://www.nccgroup.com/us/). You can find more about what I do on my blog [cryptologie.net](https://www.cryptologie.net).
